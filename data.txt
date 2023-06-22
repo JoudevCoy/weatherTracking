@@ -1,0 +1,20 @@
+API KEYS FROM OPENWEATHERMAP API:    86f31747f3b4b23558486e814f8cbe04
+
+API URL:
+https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${APIKey}
+
+berawan
+https://img.icons8.com/?size=512&id=119449&format=png
+
+salju
+https://img.icons8.com/?size=512&id=f4qROzjYRTb4&format=png
+
+hujan
+https://img.icons8.com/?size=512&id=119609&format=png
+
+petir
+https://img.icons8.com/?size=512&id=bJvzmeTY3P3z&format=png
+
+cerah
+https://img.icons8.com/?size=512&id=119011&format=png
+
