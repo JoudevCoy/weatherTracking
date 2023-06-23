@@ -5,6 +5,7 @@
   text-decoration: none;
   outline: none;
   list-style: none;
+  user-select: none;
 }
 
 body {
